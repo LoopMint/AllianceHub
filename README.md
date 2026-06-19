@@ -1,6 +1,6 @@
-# Corporate Visits AI
+# AllianceHub
 
-Corporate Visits AI is a simple Streamlit CRM app for school departments that manage corporate partners across colleges. It helps users upload Excel or CSV partner databases, clean inconsistent headers, edit partner records, and generate topline management views.
+AllianceHub is a simple Streamlit CRM app for school departments that manage corporate partners across colleges. It helps users upload Excel or CSV partner databases, clean inconsistent headers, edit partner records, and generate topline management views.
 
 ## Features
 
