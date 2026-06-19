@@ -843,8 +843,8 @@ def main():
     st.markdown(
         """
         <div class="executive-band">
-            <h1>Corporate Visits AI</h1>
-            <p>Prestigious university partner intelligence for visits, events, giving, communications, and opportunity pipeline.</p>
+            <h1>AllianceHub AI</h1>
+            <p>Partner intelligence for engagements, visits, events, giving, communications, and opportunity pipeline.</p>
         </div>
         """,
         unsafe_allow_html=True,
