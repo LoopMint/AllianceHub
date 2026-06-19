@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 
 
-APP_TITLE = "Corporate Visits AI"
+APP_TITLE = "AllianceHub CRM"
 DATA_DIR = Path("data")
 DATA_FILE = DATA_DIR / "partners_database.csv"
 SETTINGS_FILE = DATA_DIR / "cold_rules.json"
