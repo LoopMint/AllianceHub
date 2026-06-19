@@ -1,6 +1,6 @@
 # AllianceHub
 
-AllianceHub is a simple Streamlit CRM app for school departments that manage corporate partners across colleges. It helps users upload Excel or CSV partner databases, clean inconsistent headers, edit partner records, and generate topline management views.
+AllianceHub is a simple AI CRM app for companies that manage corporate partners. It helps different department combined their partners by uploading multiple Excel or CSV partner databases, clean inconsistent headers, allow admin or department users to edit partner records, and generate topline management views for decision making.
 
 ## Features
 
